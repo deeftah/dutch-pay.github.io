@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dutch-pay.github.io/static/css/main.f81b6dfd.chunk.css",
-    "main.js": "/dutch-pay.github.io/static/js/main.d1b69172.chunk.js",
-    "main.js.map": "/dutch-pay.github.io/static/js/main.d1b69172.chunk.js.map",
-    "runtime-main.js": "/dutch-pay.github.io/static/js/runtime-main.5da66473.js",
-    "runtime-main.js.map": "/dutch-pay.github.io/static/js/runtime-main.5da66473.js.map",
-    "static/js/2.02d9fded.chunk.js": "/dutch-pay.github.io/static/js/2.02d9fded.chunk.js",
-    "static/js/2.02d9fded.chunk.js.map": "/dutch-pay.github.io/static/js/2.02d9fded.chunk.js.map",
+    "main.js": "/dutch-pay.github.io/static/js/main.a1a7b0a0.chunk.js",
+    "main.js.map": "/dutch-pay.github.io/static/js/main.a1a7b0a0.chunk.js.map",
+    "runtime-main.js": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js",
+    "runtime-main.js.map": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js.map",
+    "static/js/2.1ed512f3.chunk.js": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js",
+    "static/js/2.1ed512f3.chunk.js.map": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js.map",
     "index.html": "/dutch-pay.github.io/index.html",
-    "precache-manifest.d7d0c913ecdfd50f675815170fa87e43.js": "/dutch-pay.github.io/precache-manifest.d7d0c913ecdfd50f675815170fa87e43.js",
+    "precache-manifest.cab441a8576efc71d4cc2926a88d5fb9.js": "/dutch-pay.github.io/precache-manifest.cab441a8576efc71d4cc2926a88d5fb9.js",
     "service-worker.js": "/dutch-pay.github.io/service-worker.js",
     "static/css/main.f81b6dfd.chunk.css.map": "/dutch-pay.github.io/static/css/main.f81b6dfd.chunk.css.map",
-    "static/js/2.02d9fded.chunk.js.LICENSE.txt": "/dutch-pay.github.io/static/js/2.02d9fded.chunk.js.LICENSE.txt"
+    "static/js/2.1ed512f3.chunk.js.LICENSE.txt": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5da66473.js",
-    "static/js/2.02d9fded.chunk.js",
+    "static/js/runtime-main.71ef77f9.js",
+    "static/js/2.1ed512f3.chunk.js",
     "static/css/main.f81b6dfd.chunk.css",
-    "static/js/main.d1b69172.chunk.js"
+    "static/js/main.a1a7b0a0.chunk.js"
   ]
 }
