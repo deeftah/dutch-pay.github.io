@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dutch-pay.github.io/static/css/main.f81b6dfd.chunk.css",
-    "main.js": "/dutch-pay.github.io/static/js/main.a1a7b0a0.chunk.js",
-    "main.js.map": "/dutch-pay.github.io/static/js/main.a1a7b0a0.chunk.js.map",
+    "main.css": "/dutch-pay.github.io/static/css/main.c9ccd32c.chunk.css",
+    "main.js": "/dutch-pay.github.io/static/js/main.6555a040.chunk.js",
+    "main.js.map": "/dutch-pay.github.io/static/js/main.6555a040.chunk.js.map",
     "runtime-main.js": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js",
     "runtime-main.js.map": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js.map",
     "static/js/2.1ed512f3.chunk.js": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js",
     "static/js/2.1ed512f3.chunk.js.map": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js.map",
     "index.html": "/dutch-pay.github.io/index.html",
-    "precache-manifest.cab441a8576efc71d4cc2926a88d5fb9.js": "/dutch-pay.github.io/precache-manifest.cab441a8576efc71d4cc2926a88d5fb9.js",
+    "precache-manifest.cbdc424cc6c6d2dfccbbb94da5f1fb15.js": "/dutch-pay.github.io/precache-manifest.cbdc424cc6c6d2dfccbbb94da5f1fb15.js",
     "service-worker.js": "/dutch-pay.github.io/service-worker.js",
-    "static/css/main.f81b6dfd.chunk.css.map": "/dutch-pay.github.io/static/css/main.f81b6dfd.chunk.css.map",
+    "static/css/main.c9ccd32c.chunk.css.map": "/dutch-pay.github.io/static/css/main.c9ccd32c.chunk.css.map",
     "static/js/2.1ed512f3.chunk.js.LICENSE.txt": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.71ef77f9.js",
     "static/js/2.1ed512f3.chunk.js",
-    "static/css/main.f81b6dfd.chunk.css",
-    "static/js/main.a1a7b0a0.chunk.js"
+    "static/css/main.c9ccd32c.chunk.css",
+    "static/js/main.6555a040.chunk.js"
   ]
 }

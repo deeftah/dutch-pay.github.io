@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc469fce9787bcc35b076d11c41da97d",
+    "revision": "8bd2aa7d0c51f6b90ad0efb8c8198cc9",
     "url": "/dutch-pay.github.io/index.html"
   },
   {
-    "revision": "54903c99889fecae9474",
-    "url": "/dutch-pay.github.io/static/css/main.f81b6dfd.chunk.css"
+    "revision": "346266275377fe44c31d",
+    "url": "/dutch-pay.github.io/static/css/main.c9ccd32c.chunk.css"
   },
   {
     "revision": "6187a805519b66063a5b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dutch-pay.github.io/static/js/2.1ed512f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54903c99889fecae9474",
-    "url": "/dutch-pay.github.io/static/js/main.a1a7b0a0.chunk.js"
+    "revision": "346266275377fe44c31d",
+    "url": "/dutch-pay.github.io/static/js/main.6555a040.chunk.js"
   },
   {
     "revision": "eecc257c161bd7763e24",
