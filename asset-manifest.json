@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dutch-pay.github.io/static/css/main.aa25930b.chunk.css",
-    "main.js": "/dutch-pay.github.io/static/js/main.7d3f3583.chunk.js",
-    "main.js.map": "/dutch-pay.github.io/static/js/main.7d3f3583.chunk.js.map",
+    "main.js": "/dutch-pay.github.io/static/js/main.001b90ea.chunk.js",
+    "main.js.map": "/dutch-pay.github.io/static/js/main.001b90ea.chunk.js.map",
     "runtime-main.js": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js",
     "runtime-main.js.map": "/dutch-pay.github.io/static/js/runtime-main.71ef77f9.js.map",
     "static/js/2.8d3902c4.chunk.js": "/dutch-pay.github.io/static/js/2.8d3902c4.chunk.js",
     "static/js/2.8d3902c4.chunk.js.map": "/dutch-pay.github.io/static/js/2.8d3902c4.chunk.js.map",
     "index.html": "/dutch-pay.github.io/index.html",
-    "precache-manifest.2fd0379572c05ab6abac7b4366fe1ca9.js": "/dutch-pay.github.io/precache-manifest.2fd0379572c05ab6abac7b4366fe1ca9.js",
+    "precache-manifest.19213b68e40b2f6249348e3a64dd5997.js": "/dutch-pay.github.io/precache-manifest.19213b68e40b2f6249348e3a64dd5997.js",
     "service-worker.js": "/dutch-pay.github.io/service-worker.js",
     "static/css/main.aa25930b.chunk.css.map": "/dutch-pay.github.io/static/css/main.aa25930b.chunk.css.map",
     "static/js/2.8d3902c4.chunk.js.LICENSE.txt": "/dutch-pay.github.io/static/js/2.8d3902c4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.71ef77f9.js",
     "static/js/2.8d3902c4.chunk.js",
     "static/css/main.aa25930b.chunk.css",
-    "static/js/main.7d3f3583.chunk.js"
+    "static/js/main.001b90ea.chunk.js"
   ]
 }
