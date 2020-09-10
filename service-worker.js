@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dutch-pay.github.io/precache-manifest.cf4c6e3d9761e0be7a2944163a358a98.js"
+  "/dutch-pay.github.io/precache-manifest.f2ff343264ef3fd76f7d1f43a2c923ba.js"
 );
 
 self.addEventListener('message', (event) => {
